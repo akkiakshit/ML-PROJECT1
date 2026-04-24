@@ -14,7 +14,7 @@ A machine learning model that classifies 4 hand gestures in real-time using Goog
 | Partial Close | Transition/ambiguous state |
 
 ## Live Demo
-👉 [Click here to run the model](https://akkiakshit.github.io/hand-gesture-recognition)
+👉 [Click here to run the model](https://akkiakshit.github.io/ML-PROJECT1-recognition)
 
 ## Teachable Machine Model
 🔗 [Model Link](https://teachablemachine.withgoogle.com/models/ANSR4tM56/)
